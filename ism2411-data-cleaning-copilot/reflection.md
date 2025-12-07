@@ -1,4 +1,4 @@
-# Reflection on Copilot use (template)
+# Reflection on Copilot use 
 
 **What Copilot generated**
 
