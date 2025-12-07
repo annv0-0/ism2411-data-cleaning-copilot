@@ -1,6 +1,6 @@
 # ism2411-data-cleaning-copilot
 
-Small project to clean a messy sales CSV for ISM2411 assignment. The repo contains a script
+Small project to clean a messy sales CSV file. The repo contains a script
 `src/data_cleaning.py` that performs column standardization, text stripping, missing value handling,
 and removal of invalid rows. Run from the project root:
 
