@@ -24,5 +24,3 @@
   but for this dataset median imputation felt more appropriate.
 
 
-*Note:* For academic honesty, if you used Copilot while producing this repository, edit this file to accurately describe
-exactly which lines came from Copilot and what you changed.
